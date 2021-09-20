@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nayabatir1
-- 👀 I’m interested in MERN stack
-- 🌱 I’m currently learning open source
-- 💞️ I’m looking to collaborate on js
+- 👋 Hi, I’m Atir Nayab
+- 👀 I’m interested in contributing to open source
+- 🌱 I’m currently learning how to get started in open source
+- 💞️ I’m looking to collaborate on any porject that match my skill
 - 📫 How to reach me nayabatir1@gmail.com
 
 <!---
