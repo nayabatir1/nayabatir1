@@ -15,7 +15,7 @@
 <br />
 <br />
 
-<img src="https://github.com/nayabatir1/nayabatir1/blob/main/giphy%20(1).gif" width="100%" height="20"/>
+<img src="https://github.com/nayabatir1/nayabatir1/blob/main/giphy-1--unscreen.gif" width="100%" height="20"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayabatir1" alt="nayabatir1" /></a> </p>
 
