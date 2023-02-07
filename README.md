@@ -3,9 +3,9 @@
 
 <img align="right" src="https://github.com/nayabatir1/nayabatir1/blob/main/banner2.png" height="250" />
 
-- 🔭 I’m currently working on **project and work management web app**
+- 🔭 I’m currently working on **Product price tracker with custom state management library**
 - 👯 I’m looking to collaborate on **any JS work**
-- 🌱 I’m currently learning **figma**, **JS Game Development**, **SQL**
+- 🌱 I’m currently learning **TypeScript**
 - 📫 How to reach me **nayabatir1@gmail.com**
 - 💬 Ask me about **react**, **node**, **mongo**, **next**
 - ⚡ Fun fact **I like to play games, read and binge watch shows**
