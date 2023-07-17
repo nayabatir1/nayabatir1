@@ -4,7 +4,7 @@
 <img align="right" src="https://github.com/nayabatir1/nayabatir1/blob/main/banner2.png" height="250" />
 
 - 🔭 I’m currently working on **An enterprise application to manage factory issues**
-- 🌱 I’m currently learning **Native addon with Node**
+- 🌱 I’m currently learning **Flutter**
 - 📫 How to reach me **nayabatir1@gmail.com**
 - 💬 Ask me about **MERN**
 - ⚡ Fun fact **I like to play games, read and binge watch shows**
